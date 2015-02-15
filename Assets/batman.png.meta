@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 41de2a958b52f8f4282e673b0279161c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: batman_0
+    21300002: batman_1
+    21300004: batman_2
+    21300006: batman_3
+    21300008: batman_4
+    21300010: batman_5
+    21300012: batman_7
+    21300014: batman_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: batman_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 90
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batman_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 92
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batman_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 90
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batman_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 91
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batman_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 91
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batman_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 88
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batman_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 13
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batman_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
